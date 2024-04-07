@@ -1,1 +1,1 @@
- this is my fierst line of code ;:
+ this is my 1st  line of code in first.sh
