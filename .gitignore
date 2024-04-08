@@ -4,7 +4,7 @@ Ignoring files
 *.py
 *.txt
 
-! file.py
+!file.py
 
 
 
