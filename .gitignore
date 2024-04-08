@@ -5,7 +5,7 @@ Ignoring files
 *.txt
 
 !file.py
-
+[aeiou]*.java
 
 
 
